@@ -1,6 +1,6 @@
 # Arizona Walkability Calculator
 
-A Python script that maps walkability value across Arizona zip codes by combining Walk Score data with Census rent data into a composite affordability-walkability index.
+A Python script that maps walkability value across Arizona zip codes by combining Walk Score data with Census rent data into a composite affordability-walkability index. For a quick look at the result, download and open the .html file.
 
 ## What It Does
 
